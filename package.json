@@ -1,0 +1,14 @@
+{
+  "name": "@pale-moonlight/npm-dev",
+  "version": "1.0.0",
+  "description": "default",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
